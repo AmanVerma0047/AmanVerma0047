@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Vending machine](https://github.com/AmanVerma0047/Vending-Machine-Project-)
+- 🔭 I’m currently working on [Tic Tac Toe](https://github.com/AmanVerma0047/TicTactoe)
 
 - 🌱 I’m currently learning **c language fundamentals.**
 
