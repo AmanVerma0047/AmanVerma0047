@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Food Order website](https://github.com/AmanVerma0047/FoodOrderJs)
+- 🔭 I’m currently working on [Programming practice website](https://github.com/AmanVerma0047/PandaCoder)
 
 - 🌱 I’m currently learning **c language fundamentals.**
 
