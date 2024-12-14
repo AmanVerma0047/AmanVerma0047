@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fillo- A File Management tool](https://github.com/AmanVerma0047/Filo)
 
-- 🌱 I’m currently learning **c language fundamentals.**
+- 🌱 I’m currently learning **Godot**
 
 - 👯 I’m looking to collaborate on **godot project.**
 
