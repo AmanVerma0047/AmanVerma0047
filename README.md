@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [Fillo- A File Management tool](https://github.com/AmanVerma0047/Filo)
 
-- 🌱 I’m currently learning **Godot**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **godot project.**
+- 👯 I’m looking to collaborate on **React project.**
 
-- 🤝 I’m looking for help with **godot project.**
+- 🤝 I’m looking for help with **React project.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmanVerma0047](https://github.com/AmanVerma0047)
 
-- 💬 Ask me about **c language and godot.**
+- 💬 Ask me about **c language and React.**
 
-- ⚡ Fun fact **I like to create games with godot.**
+- ⚡ Fun fact **I like to create games with react.**
 
 
 <h3 align="left">Languages and Tools:</h3>
