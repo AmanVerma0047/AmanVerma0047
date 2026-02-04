@@ -3,12 +3,6 @@
 
 - 🔭 I’m currently working on [Fillo- A File Management tool](https://github.com/AmanVerma0047/Filo)
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **React project.**
-
-- 🤝 I’m looking for help with **React project.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AmanVerma0047](https://github.com/AmanVerma0047)
 
 <h3 align="left">Languages and Tools:</h3>
