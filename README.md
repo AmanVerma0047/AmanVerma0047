@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 
 
-- 🔭 I’m currently working on [Fillo- A File Management tool](https://github.com/AmanVerma0047/Filo)
+- 🔭 Read my Blog [Kirisoft.dev](https://kirisoft.dev)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmanVerma0047](https://github.com/AmanVerma0047)
 
